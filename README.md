@@ -15,15 +15,9 @@
 OUTPUT:
 
 
-<img src = "https://github.com/user-attachments/assets/b0af4804-2bca-4c55-815b-9f19fd3c4485" width="200">
-<img src = "https://github.com/user-attachments/assets/40b1781b-2151-4241-8656-d8e3805a6683" width="200">
-<img src = "https://github.com/user-attachments/assets/91ca881c-9f66-42e6-86d9-5ca91a0216d0" width="200">
-<img src = "https://github.com/user-attachments/assets/a3d67335-8616-4c0d-89ac-6af2376177ad" width="200">
+<img src = "https://github.com/user-attachments/assets/f35d5027-7ae2-4a4c-a731-0262f3257977" width="200">
+<img src = "https://github.com/user-attachments/assets/ded95fc2-76c4-4cb3-a892-fd0cc10ee4b2" width="200">
+<img src = "https://github.com/user-attachments/assets/501fb0b3-6b57-4f4e-a54e-39810e3af577" width="200">
+<img src = "https://github.com/user-attachments/assets/de0e8d9c-e787-44fc-b795-1d3f751bd876" width="200">
+<img src = "https://github.com/user-attachments/assets/37f3e9d4-5cd4-4849-a5cc-7e93a6b914a1" width="200">
 
-<img src = "https://github.com/user-attachments/assets/e0a083ea-33e2-4341-b312-564e264aa9df" width="200">
-
-<img src = "https://github.com/user-attachments/assets/394d2dcd-d66f-45bf-8cbc-078959380b11" width="200">
-
-<img src = "https://github.com/user-attachments/assets/dfb72a8b-a044-4761-b094-cfbf0d3f1199" width="200">
-
-<img src = "https://github.com/user-attachments/assets/9f43a303-88fa-4435-aa77-ad6b41e9d8e0" width="200">
